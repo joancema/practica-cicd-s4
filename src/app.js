@@ -81,3 +81,4 @@ if (require.main === module) {
     console.log('Tareas creadas:', manager.tasks.length);
     console.log('Estadísticas:', manager.getStats());
 }
+// Hook pre-commit: Verifica que el código pase las pruebas antes de permitir el commit
