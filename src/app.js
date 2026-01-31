@@ -81,5 +81,4 @@ if (require.main === module) {
     console.log('Tareas creadas:', manager.tasks.length);
     console.log('Estadísticas:', manager.getStats());
 }
-//TODO: Agregar validaciones para los parámetros de las tareas
-//FIXME: Manejar errores al completar tareas inexistentes
+
