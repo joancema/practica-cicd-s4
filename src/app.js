@@ -2,6 +2,7 @@
  * TaskManager - Gestión de Tareas
  * Práctica CI/CD - MDW101
  */
+// función mejorada
 
 class TaskManager {
     constructor() {
