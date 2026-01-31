@@ -81,10 +81,5 @@ if (require.main === module) {
     console.log('Tareas creadas:', manager.tasks.length);
     console.log('Estadísticas:', manager.getStats());
 }
-<<<<<<< HEAD
-// Hook pre-commit: Verifica que el código pase las pruebas antes de permitir el committ
-// Hook pre-push: Asegura que el código esté correctamente versionado según SemVer antes de permitir el push
-=======
+// Comentario normal
 
-// TODO: prueba
->>>>>>> 952f168 (chore: pre-commit file)
