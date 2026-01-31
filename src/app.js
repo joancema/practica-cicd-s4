@@ -82,3 +82,4 @@ if (require.main === module) {
     console.log('Estadísticas:', manager.getStats());
 }
 // Hook pre-commit: Verifica que el código pase las pruebas antes de permitir el commit
+// Hook pre-push: Asegura que el código esté correctamente versionado según SemVer antes de permitir el push
