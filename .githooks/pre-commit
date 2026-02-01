@@ -30,3 +30,5 @@ fi
 
 echo "✅ Código verificado - No se encontraron TODO/FIXME"
 exit 0
+
+
