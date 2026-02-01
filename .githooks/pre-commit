@@ -30,8 +30,5 @@ fi
 
 echo "✅ Código verificado - No se encontraron TODO/FIXME"
 exit 0
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 952f168 (chore: pre-commit file)
